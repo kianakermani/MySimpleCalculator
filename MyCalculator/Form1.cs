@@ -28,14 +28,14 @@ namespace MyCalculator
             if (numeric1.Value == 0)
             {
                 isValid = false;
-                MessageBox.Show("لطفا عدد اول را وارد کنید");
+                MessageBox.Show("Please Enter first number");
             }
             else
             {
                 if (numeric2.Value == 0)
                 {
                     isValid = false;
-                    MessageBox.Show("لطفا عدد دوم را وارد کنید");
+                    MessageBox.Show("Please Enter second number");
                 }
             }
 
