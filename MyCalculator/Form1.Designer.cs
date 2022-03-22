@@ -46,18 +46,18 @@ namespace MyCalculator
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(423, 54);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(62, 17);
+            this.label1.Size = new System.Drawing.Size(94, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "عدد اول :";
+            this.label1.Text = "First number :";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(423, 106);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 17);
+            this.label2.Size = new System.Drawing.Size(115, 17);
             this.label2.TabIndex = 1;
-            this.label2.Text = "عدد دوم :";
+            this.label2.Text = "Second number :";
             // 
             // numeric1
             // 
@@ -117,7 +117,7 @@ namespace MyCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(493, 227);
+            this.ClientSize = new System.Drawing.Size(568, 227);
             this.Controls.Add(this.taghsim);
             this.Controls.Add(this.zarb);
             this.Controls.Add(this.menha);
