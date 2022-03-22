@@ -131,7 +131,7 @@ namespace MyCalculator
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ماشین حساب من";
+            this.Text = "MyCalculator";
             ((System.ComponentModel.ISupportInitialize)(this.numeric1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numeric2)).EndInit();
             this.ResumeLayout(false);
